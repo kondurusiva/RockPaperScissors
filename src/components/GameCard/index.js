@@ -165,7 +165,7 @@ class GameCard extends Component {
           )}
         </RenderDiv>
         <Popup
-          model
+          modal
           trigger={
             <RulesBtn type="button" alignSelf="flex-end">
               Rules
